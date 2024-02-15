@@ -25,7 +25,7 @@ return (
     <div className="d-flex w-100 justify-content-center align-items-center ">
       <div className="w-100 border bg-light p-5">
         <form onSubmit={handleSubmit}>
-            <h1 className="mb-4">Sign Up</h1>
+            <h1 className="mb-4">Add +</h1>
              <div>
                  <label className="mt-2" htmlFor="name">Name:</label>
                  <input type="text" name="name" className="form-control" 
